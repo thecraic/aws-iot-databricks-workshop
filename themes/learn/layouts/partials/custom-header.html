@@ -12,8 +12,9 @@
 <script>
 
   const shortbread = AWSCShortbread({
-    domain: "webapp.serverlessworkshops.io",
+    //domain: "webapp.serverlessworkshops.io",
     //domain:"localhost"
+    domain: window.location.hostname
   });
   shortbread.checkForCookieConsent();
 

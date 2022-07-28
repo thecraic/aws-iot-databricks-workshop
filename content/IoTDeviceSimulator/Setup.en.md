@@ -17,15 +17,15 @@ weight = 10
 This will take you to the CloudFormation console and the “Create Stack” window.
 
 2. Change your region to ```eu-west-1 (Ireland)``` and create the stack.
-- - For stack name choose: ```aws-iot-simulator```
-- - For administrator’s email address enter ```your email address```.
-- - Leave all other items as defaults.
-- - Acknowledge that AWS CloudFormation might create IAM resources.
-- - Choose ```Create Stack```.
+- For stack name choose: ```aws-iot-simulator```
+- For administrator’s email address enter ```your email address```.
+- Leave all other items as defaults.
+- Acknowledge that AWS CloudFormation might create IAM resources.
+- Choose ```Create Stack```.
 
 This stack creation step would take approximately 5 minutes.
 
-Once the stack creation is completed, the user will receive an email with the IoT Device Simulator Login information i.e. (link to the IoT simulator console and temporary credentials) For Example: https://d2kkv2dj5ayy89.cloudfront.net
+Once the stack creation is completed, the user will receive an email with the IoT Device Simulator Login information i.e. (link to the IoT simulator console and temporary credentials) For Example: ```https://d2kkv2dj5ayy89.cloudfront.net```
 
 *Note: The IoT Simulator console URL is also available in the ‘Output’ tab of the CloudFormation stack as shown below.*
 
