@@ -1,12 +1,12 @@
 +++
 copyright = "Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved."
 spdx-license-identifier = "CC-BY-SA-4.0"
-title = "App Client"
+title = "Verify Kinesis Data"
 date = 2019-09-09T17:42:10+01:00
 weight = 30
 +++
 
-### 3. Check Your User Pool's App Client
+### 3. Verify the data is arriving at the Kinesis Data Stream
 
 A new App client has been created by the AWS Amplify build. Let's take a look at this app client. 
 
