@@ -25,7 +25,7 @@ architecture and verify your work.
 | [Set up IoT Device Simulator][iot-device-simulator] | Deploy AWS device simulator with wind turbine sensor configurations. |
 | [AWS Data Ingestion Management][aws-data-ingestion] | Ingest simulated device data into AWS IoT Core and deliver it to Amazon Kinesis Data Stream. |
 | [Databricks Cloud Setup][databricks-cloud-setup] | Create a Databricks Cloud account, setup AWS permissions for your workspace and launch a Databricks cluster in your AWS account. |
-| [RESTful APIs][restful-apis] | Expose the Lambda function via an Amazon API Gateway as a RESTful API that the static site can call. |
+| [Streaming Analytics][streaming-analytics] | Use Databricks notebooks to perform realtime analytics on the incoming sensor data. |
 
 :warning: These modules are intended to be executed in order.
 
@@ -35,5 +35,5 @@ After you have completed the workshop you can delete all of the resources that w
 [iot-device-simulator]: iotdevicesimulator
 [aws-data-ingestion]: awsdataingestion
 [databricks-cloud-setup]: databrickscloudsetup
-[restful-apis]: restfulapis
+[streaming-analytics]: streaminganalytics
 [cleanup]: cleanup
