@@ -16,7 +16,8 @@ weight = 10
 
 This will take you to the CloudFormation console and the “Create Stack” window.
 
-2. Change your region to ```eu-west-1 (Ireland)``` and create the stack.
+2. Change your region to ```eu-west-1 (Ireland)```.
+- In the "Specify Template" section enter the Amazon S3 URL ```https://solutions-reference.s3.amazonaws.com/iot-device-simulator/latest/iot-device-simulator.template``` and choose "Next".
 - For stack name choose: ```aws-iot-simulator```
 - For administrator’s email address enter ```your email address```.
 - Leave all other items as defaults.
