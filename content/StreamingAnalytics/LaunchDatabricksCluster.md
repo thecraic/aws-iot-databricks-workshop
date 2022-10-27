@@ -21,7 +21,7 @@ In this section you will launch a Databricks cluster in your AWS account with th
 ![Create Cluster](/images/databricks/create-cluster.png)
 
 3.   Provide a Cluster name  of your choice (Example : `iot-cluster`) and choose the  Databricks Machine Learning Runtime as shown in screenshot 
-**note: Since we have some Machine Learning exercise , in this workshop, we are choosing a  ML Runtime.*
+**Note: Since we have some Machine Learning exercise , in this workshop, we are choosing a  ML Runtime.*
 
 - **Runtime: 10.4 LTS ML (includes Apache Spark 3.2.1, Scala 2.12)**
 
@@ -32,7 +32,7 @@ In this section you will launch a Databricks cluster in your AWS account with th
 ![Advanced Options](/images/databricks/advanced-options.png)
 
 5. In the **‘Advanced Options’** , navigate to the **‘Instances’ -> ‘Instance profile’** option You will see the instance profile which you added in the previous step in the drop down. Choose the instance profile from the drop down.
-
+**Note: In the new UI ,‘Instance profile’ might be available above the 'Advanced Options'.*
 ![Choose Instance Profile](/images/databricks/choose-instance-profile.png)
 
 6. Click the `Create Cluster` button and  wait for the Cluster to be created and running as below with a green tick mark
