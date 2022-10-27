@@ -10,7 +10,7 @@ weight = 50
 
 **:white_check_mark: Step-by-step directions**
 
-1. Step1
+'Run' every cell/command in the Databricks Notebook '02-iot-data-science' one after the other once the previous cell/command succeeds
 
 
 

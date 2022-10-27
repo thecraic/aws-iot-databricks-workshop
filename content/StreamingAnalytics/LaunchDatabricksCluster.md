@@ -8,7 +8,7 @@ weight = 20
 
 ### 2. Launch a Databricks Cluster
 
-In this section you will launch a Databricks cluster in your AWS account with the instance profile created in earlier sections. This will allow jobs to establish a connaction between the Kinesis Stream and the Databricks workspace.
+In this section you will launch a Databricks cluster in your AWS account with the instance profile created in earlier sections. This will allow jobs to establish a connection between the Kinesis Stream and the Databricks workspace.
 
 **:white_check_mark: Step-by-step directions**
 
@@ -16,7 +16,7 @@ In this section you will launch a Databricks cluster in your AWS account with th
 
 ![Compute Option](/images/databricks/compute-option.png)
 
-2.  Click the `Create Cluster` button.
+2.  Click the `Create Cluster` button. **Note: In the new UI ‘Create Compute’  button might be available , click that button.*
 
 ![Create Cluster](/images/databricks/create-cluster.png)
 
@@ -35,7 +35,7 @@ In this section you will launch a Databricks cluster in your AWS account with th
 **Note: In the new UI ,‘Instance profile’ might be available above the 'Advanced Options'.*
 ![Choose Instance Profile](/images/databricks/choose-instance-profile.png)
 
-6. Click the `Create Cluster` button and  wait for the Cluster to be created and running as below with a green tick mark
+6. Click the `Create Cluster` button and  wait for the Cluster to be created and running as below with a green tick mark **Note: In the new UI ‘Create Cluster’  button might be available on the bottom.*
 
 ![Created Cluster](/images/databricks/created-cluster.png)
 

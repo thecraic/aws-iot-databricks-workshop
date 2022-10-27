@@ -30,7 +30,7 @@ Before completing the notebook exercises cell by cell, you will need to configur
 
 1.  Attach Cluster to the Notebook
 
-Before starting any notebook execution , Attach the  `iot-cluster` cluster to the   notebook from the  drop down at the top left corner
+Before starting any notebook execution , Attach the  `iot-cluster` cluster to the   notebook from the  drop down at the top left corner **Note: In the new UI ,'Connect' drop down might be on the top right corner*
 ![Attach Cluster](/images/databricks/attach-cluster.png)
 
 2.  Run Cells/Command in notebook

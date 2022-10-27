@@ -17,7 +17,7 @@ In this section you will configure your Databricks workspace to use the AWS Inst
 ![Workspace Stack](/images/databricks/workspace-stack.png)
 
 
-1. In your Databricks Workspace, navigate in the sidebar to =>Settings =>Admin Console
+1. In your Databricks Workspace, navigate in the sidebar to =>Settings =>Admin Console **Note: In the new UI click your username available on the top right corner to access Admin Console.*
 
 ![Settings Admin Console](/images/databricks/settings-admin-console.png)
 
